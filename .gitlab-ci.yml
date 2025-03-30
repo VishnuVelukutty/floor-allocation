@@ -2,13 +2,13 @@ image: node:10
 
 cache:
   paths:
-    - aspire-floor-allocation/node_modules/
+    - aspire-floor-allocation/node_modules
 
 stages:
   - deploy
 
 before_script:
-  - cd aspire-floor-allocation
+  - cd spire-floor-allocation
   - rm -rf build
   - CI=false npm install
 
@@ -18,8 +18,8 @@ pages:
   script:
     - CI=false npm run build
     - cp build/index.html build/404.html
-    - mkdir -p ../../public
     - cp -r build/* ../../public/
+
   artifacts:
     paths:
       - public
