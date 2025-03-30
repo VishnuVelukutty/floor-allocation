@@ -1,0 +1,386 @@
+{
+    "status": "success",
+    "data": {
+        "building_total_area": 220096.0,
+        "building_occupied_area": 165396.0,
+        "building_remaining_area": 54700.0,
+        "building_occupied_percentage": 75.15,
+        "building_remaining_percentage": 24.85,
+        "floors_data": [
+            {
+                "name": "Ground floor",
+                "remark": "confirmed",
+                "total_area": 14922.0,
+                "occupied_area": 14922.0,
+                "remaining_area": 0.0,
+                "occupied_percentage": 100.0,
+                "remaining_percentage": 0.0,
+                "companies": [
+                    {
+                        "name": "Tata steel",
+                        "occupied_area": 5500.0,
+                        "occupied_percentage": 36.86
+                    },
+                    {
+                        "name": "Applied materials",
+                        "occupied_area": 9422.0,
+                        "occupied_percentage": 63.14
+                    }
+                ]
+            },
+            {
+                "name": "1st",
+                "remark": "confirmed",
+                "total_area": 20896.0,
+                "occupied_area": 19648.0,
+                "remaining_area": 1248.0,
+                "occupied_percentage": 94.03,
+                "remaining_percentage": 5.97,
+                "companies": [
+                    {
+                        "name": "Applied materials",
+                        "occupied_area": 9200.0,
+                        "occupied_percentage": 44.03
+                    },
+                    {
+                        "name": "Rallis",
+                        "occupied_area": 9200.0,
+                        "occupied_percentage": 44.03
+                    },
+                    {
+                        "name": "Bharat forge",
+                        "occupied_area": 1248.0,
+                        "occupied_percentage": 5.97
+                    }
+                ]
+            },
+            {
+                "name": "2nd",
+                "remark": "blocked",
+                "total_area": 20896.0,
+                "occupied_area": 20896.0,
+                "remaining_area": 0.0,
+                "occupied_percentage": 100.0,
+                "remaining_percentage": 0.0,
+                "companies": [
+                    {
+                        "name": "IIT B",
+                        "occupied_area": 20896.0,
+                        "occupied_percentage": 100.0
+                    }
+                ]
+            },
+            {
+                "name": "3rd",
+                "remark": "confirmed",
+                "total_area": 20831.0,
+                "occupied_area": 16396.0,
+                "remaining_area": 4435.0,
+                "occupied_percentage": 78.71,
+                "remaining_percentage": 21.29,
+                "companies": [
+                    {
+                        "name": "L & T",
+                        "occupied_area": 4800.0,
+                        "occupied_percentage": 23.04
+                    },
+                    {
+                        "name": "Hindalco",
+                        "occupied_area": 7296.0,
+                        "occupied_percentage": 35.02
+                    }
+                ]
+            },
+            {
+                "name": "4th",
+                "remark": "blocked",
+                "total_area": 15313.0,
+                "occupied_area": 15313.0,
+                "remaining_area": 0.0,
+                "occupied_percentage": 100.0,
+                "remaining_percentage": 0.0,
+                "companies": [
+                    {
+                        "name": "IITB",
+                        "occupied_area": 14130.0,
+                        "occupied_percentage": 92.27
+                    }
+                ]
+            },
+            {
+                "name": "5th",
+                "remark": "confirmed",
+                "total_area": 19454.0,
+                "occupied_area": 13934.0,
+                "remaining_area": 5520.0,
+                "occupied_percentage": 71.63,
+                "remaining_percentage": 28.37,
+                "companies": [
+                    {
+                        "name": "Murata",
+                        "occupied_area": 4207.0,
+                        "occupied_percentage": 21.63
+                    },
+                    {
+                        "name": "TCS",
+                        "occupied_area": 5520.0,
+                        "occupied_percentage": 28.37
+                    },
+                    {
+                        "name": "Purplle",
+                        "occupied_area": 4207.0,
+                        "occupied_percentage": 21.63
+                    }
+                ]
+            },
+            {
+                "name": "6th",
+                "remark": "vacant",
+                "total_area": 23685.0,
+                "occupied_area": 0,
+                "remaining_area": 23685.0,
+                "occupied_percentage": 0.0,
+                "remaining_percentage": 100.0,
+                "companies": []
+            },
+            {
+                "name": "7th",
+                "remark": "vacant",
+                "total_area": 19390.0,
+                "occupied_area": 16454.0,
+                "remaining_area": 2936.0,
+                "occupied_percentage": 84.86,
+                "remaining_percentage": 15.14,
+                "companies": [
+                    {
+                        "name": "Arrdy",
+                        "occupied_area": 1065.0,
+                        "occupied_percentage": 5.49
+                    },
+                    {
+                        "name": "DevRev",
+                        "occupied_area": 5520.0,
+                        "occupied_percentage": 28.47
+                    },
+                    {
+                        "name": "NCIIPC",
+                        "occupied_area": 5520.0,
+                        "occupied_percentage": 28.47
+                    },
+                    {
+                        "name": "MNST",
+                        "occupied_area": 2369.0,
+                        "occupied_percentage": 12.22
+                    },
+                    {
+                        "name": "Tejase Aerosense",
+                        "occupied_area": 904.0,
+                        "occupied_percentage": 4.66
+                    },
+                    {
+                        "name": "Atomberg",
+                        "occupied_area": 1076.0,
+                        "occupied_percentage": 5.55
+                    }
+                ]
+            },
+            {
+                "name": "8th",
+                "remark": "confirmed",
+                "total_area": 9846.0,
+                "occupied_area": 9025.0,
+                "remaining_area": 821.0,
+                "occupied_percentage": 91.66,
+                "remaining_percentage": 8.34,
+                "companies": [
+                    {
+                        "name": "Neodocs",
+                        "occupied_area": 1636.0,
+                        "occupied_percentage": 16.62
+                    },
+                    {
+                        "name": "igrenenergi services Pvt Ltd",
+                        "occupied_area": 1638.0,
+                        "occupied_percentage": 16.64
+                    },
+                    {
+                        "name": "AdaptiveWaves",
+                        "occupied_area": 820.0,
+                        "occupied_percentage": 8.33
+                    },
+                    {
+                        "name": "Deep Health",
+                        "occupied_area": 822.0,
+                        "occupied_percentage": 8.35
+                    },
+                    {
+                        "name": "Rishabh (R&D)",
+                        "occupied_area": 823.0,
+                        "occupied_percentage": 8.36
+                    },
+                    {
+                        "name": "IFP Petro",
+                        "occupied_area": 820.0,
+                        "occupied_percentage": 8.33
+                    },
+                    {
+                        "name": "Core energy system",
+                        "occupied_area": 821.0,
+                        "occupied_percentage": 8.34
+                    },
+                    {
+                        "name": "Nanosniff",
+                        "occupied_area": 822.0,
+                        "occupied_percentage": 8.35
+                    },
+                    {
+                        "name": "C-tech Labs Pvt Ltd.",
+                        "occupied_area": 823.0,
+                        "occupied_percentage": 8.36
+                    }
+                ]
+            },
+            {
+                "name": "9th",
+                "remark": "vacant",
+                "total_area": 12241.0,
+                "occupied_area": 6386.0,
+                "remaining_area": 5855.0,
+                "occupied_percentage": 52.17,
+                "remaining_percentage": 47.83,
+                "companies": [
+                    {
+                        "name": "Honda",
+                        "occupied_area": 0.0,
+                        "occupied_percentage": 0.0
+                    },
+                    {
+                        "name": "Prompt Innovations",
+                        "occupied_area": 1105.0,
+                        "occupied_percentage": 9.03
+                    },
+                    {
+                        "name": "ideaforge",
+                        "occupied_area": 1354.0,
+                        "occupied_percentage": 11.06
+                    },
+                    {
+                        "name": "Insolare",
+                        "occupied_area": 1292.0,
+                        "occupied_percentage": 10.55
+                    },
+                    {
+                        "name": "Ubisoft",
+                        "occupied_area": 1354.0,
+                        "occupied_percentage": 11.06
+                    },
+                    {
+                        "name": "CloudMojo",
+                        "occupied_area": 1281.0,
+                        "occupied_percentage": 10.46
+                    }
+                ]
+            },
+            {
+                "name": "10th",
+                "remark": "confirmed",
+                "total_area": 3443.0,
+                "occupied_area": 1743.0,
+                "remaining_area": 1700.0,
+                "occupied_percentage": 50.62,
+                "remaining_percentage": 49.38,
+                "companies": [
+                    {
+                        "name": "Penseive",
+                        "occupied_area": 0.0,
+                        "occupied_percentage": 0.0
+                    },
+                    {
+                        "name": "Sustlabs",
+                        "occupied_area": 893.0,
+                        "occupied_percentage": 25.94
+                    },
+                    {
+                        "name": "Koita foundation(RSSDI)",
+                        "occupied_area": 850.0,
+                        "occupied_percentage": 24.69
+                    }
+                ]
+            },
+            {
+                "name": "11th",
+                "remark": "confirmed",
+                "total_area": 4239.0,
+                "occupied_area": 4239.0,
+                "remaining_area": 0.0,
+                "occupied_percentage": 100.0,
+                "remaining_percentage": 0.0,
+                "companies": [
+                    {
+                        "name": "Deloitte",
+                        "occupied_area": 2216.0,
+                        "occupied_percentage": 52.28
+                    },
+                    {
+                        "name": "Emergy",
+                        "occupied_area": 2023.0,
+                        "occupied_percentage": 47.72
+                    }
+                ]
+            },
+            {
+                "name": "12th",
+                "remark": "confirmed",
+                "total_area": 11018.0,
+                "occupied_area": 11018.0,
+                "remaining_area": 0.0,
+                "occupied_percentage": 100.0,
+                "remaining_percentage": 0.0,
+                "companies": [
+                    {
+                        "name": "JSW",
+                        "occupied_area": 11018.0,
+                        "occupied_percentage": 100.0
+                    }
+                ]
+            },
+            {
+                "name": "13th",
+                "remark": "confirmed",
+                "total_area": 11968.0,
+                "occupied_area": 7718.0,
+                "remaining_area": 4250.0,
+                "occupied_percentage": 64.49,
+                "remaining_percentage": 35.51,
+                "companies": [
+                    {
+                        "name": "Unilever",
+                        "occupied_area": 4250.0,
+                        "occupied_percentage": 35.51
+                    },
+                    {
+                        "name": "Agrima Advanced Materials Private Limited",
+                        "occupied_area": 3468.0,
+                        "occupied_percentage": 28.98
+                    }
+                ]
+            },
+            {
+                "name": "14th",
+                "remark": "vacant",
+                "total_area": 11954.0,
+                "occupied_area": 7704.0,
+                "remaining_area": 4250.0,
+                "occupied_percentage": 64.45,
+                "remaining_percentage": 35.55,
+                "companies": [
+                    {
+                        "name": "AMAT",
+                        "occupied_area": 4250.0,
+                        "occupied_percentage": 35.55
+                    }
+                ]
+            }
+        ]
+    }
+}
